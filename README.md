@@ -1,12 +1,6 @@
-# Programming Language Suggester
+# Craps Dice Game
 
 #### By Matt Wilkinson
-
-#### Programming Language Suggester
-
-## Github links
-* https://wilkinsonmatt.github.io/Programming_Language_Suggester/
-* https://github.com/wilkinsonmatt/Programming_Language_Suggester.git
 
 ## Technologies Used
 
@@ -18,9 +12,6 @@
 
 ## Description
 
- A Programming Language Suggester webpage that asks future students a series of questions about themselves and provides a language suggestion based on their answers. 
- 
- (Unfortunately the results aren't based in science)
 
 ## Setup/Installation Requirements
 
